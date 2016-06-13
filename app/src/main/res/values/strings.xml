@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Homework_12_GregMarsh</string>
+    <string name="enter_info">Enter Info</string>
+    <string name="click_to_set">Click To Set</string>
+    <string name="first_name">First Name:</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="hometown">Hometown - City:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="next">Next</string>
+    <string name="birthday_month_day">Birthday m/d:</string>
+    <string name="sport">Sport:</string>
+    <string name="color">Color:</string>
+    <string name="movie_genre">Movie Genre:</string>
+    <string name="menu">Menu</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="favorite_movie_genre">Favorite Movie Genre</string>
+    <string name="favorite_sport">Favorite Sport</string>
+    <string name="favorites">Update Favorites</string>
+    <string name="view">View Info</string>
+
+    <string-array name="sport">
+        <item>Golf</item>
+        <item>Bicycling</item>
+        <item>Dancing</item>
+        <item>Ultimate</item>
+        <item>Weightlifting</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Brown</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Hybrid</item>
+    </string-array>
+
+</resources>
